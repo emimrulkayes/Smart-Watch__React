@@ -7,13 +7,13 @@ const Cart = ({ cart,randomProduct,chosseAgain,clearSpecific }) => {
       
     return (
         <div className='cart-container'>
-            <h3 className='text-info d-flex justify-content-center align-items-center'>Shop Cart</h3>
+            <h4 className='text-info d-flex justify-content-center align-items-center'>Shopping Cart</h4>
             {
                 cart?.map(Product=><CartData data={Product} key={Product.id}clearSpecific={clearSpecific}></CartData>)
             }
             <div className='button-container'>
             <button className='cart-button px-2 bg-warning' onClick={() => { randomProduct() }}>Choose One</button>
-            <button className='cart-button2 px-2' onClick={()=>{chosseAgain()}}>Chose Again</button>
+            <button className='cart-button2 px-2 bg-danger' onClick={()=>{chosseAgain()}}>Chose Again</button>
            </div>
         </div>
     );
