@@ -2,80 +2,80 @@
     {
       "name": "Jaeger-LeCoultre",
       "id": "623dd4ed62888a8255e8fe6a",
-      "balance": "$328.91",
+      "price": "$328.91",
       "picture": "https://img.freepik.com/free-vector/white-smartwatch-background_1412-32.jpg?w=740&t=st=1648294238~exp=1648294838~hmac=7419f8706c160ac7eee762ff6805a9e00bb7f437d9094a672cdbddb99ad41c05"
     },
     {
       "name": "Audemars Piguet",
       "id": "623dd4ed3e2bb8eb5be454f3",
-      "balance": "$24.66",
+      "price": "$24.66",
       "picture": "https://img.freepik.com/free-photo/closeup-shot-golden-watch-isolated_181624-28492.jpg?t=st=1648291409~exp=1648292009~hmac=c26e7179989a9de0f00bd7e88ce648ee8c255568642ac04767aa92314aa7cab8&w=740"
     },
     {
       "name": "Frédérique Constant",
       "id": "623dd4edb08080f2c885e606",
-      "balance": "$924.93",
+      "price": "$924.93",
       "picture": "https://img.freepik.com/free-photo/elegant-watch-with-silver-golden-chain-isolated_181624-27080.jpg?t=st=1648294469~exp=1648295069~hmac=9a3b2303530f85fccba2f863cc518664e02cfab8bb09a6fd32a7c9432aaeb77b&w=740"
     },
     {
       "name": "Piaget",
       "id": "623dd4edf2b88b0a5635b39d",
-      "balance": "$834.07",
+      "price": "$834.07",
       "picture": "https://img.freepik.com/free-vector/smart-watch-realistic-image-black_1284-11873.jpg?t=st=1648294080~exp=1648294680~hmac=31a7d63a92dcb8f4a60faeb51fe60bd21a6c762645993affbbdbf6f96947c4fb&w=740"
     },
     {
       "name": "Cartier",
       "id": "623dd4ed600793196e754e1f",
-      "balance": "$736.36",
+      "price": "$736.36",
       "picture": "https://images.unsplash.com/photo-1561601310-9aff07da43bb?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8aW5kaWFuJTIwc2NvdXR8ZW58MHx8MHx8&auto=format&fit=crop&w=500&q=60"
     },
     {
       "name": "Harry Winston",
       "id": "623dd4ed8f9ebe09b6018aa2",
-      "balance": "$362.05",
+      "price": "$362.05",
       "picture": "https://img.freepik.com/free-vector/realistic-smart-watch_1284-10933.jpg?w=740"
     },
     {
       "name": "Blancpain",
       "id": "623dd4ed87d2f5d8c361f5e3",
-      "balance": "$207.37",
+      "price": "$207.37",
       "picture": "https://img.freepik.com/free-vector/hand-watch-man-watch-isolated-white-background-wrist-watch-accessory_1284-51538.jpg?w=740"
     },
     {
       "name": "Longines",
       "id": "623dd4ed4d3e7e619428e68d",
-      "balance": "$285.95",
+      "price": "$285.95",
       "picture": "https://img.freepik.com/free-photo/smartwatch-screen-digital-device_53876-96833.jpg?t=st=1648294933~exp=1648295533~hmac=30a5a8b30bf213404ea541e961e72a80d2ed9c8856b3674f7cecfcc03688c609&w=740"
     },
     {
       "name": "Cartier",
       "id": "623dd4ed97d989de9fc672ab",
-      "balance": "$500.01",
+      "price": "$500.01",
       "picture": "https://img.freepik.com/free-vector/men-s-leather-wrist-watch-vector-hand-drawn-fashion-sketch_53876-143477.jpg?t=st=1648294933~exp=1648295533~hmac=805eebdad2a7f7cea02067a1ae1c9bdbd8016140c90dfe7afe6b9979afcee7ef&w=360"
     },
     {
       "name": "Audemars Piguet",
       "id": "623dd4ed0c0041ef18b94f51",
-      "balance": "$446.19",
+      "price": "$446.19",
       "picture": "https://img.freepik.com/free-photo/stylish-golden-watch-white-surface_181624-27078.jpg?t=st=1648294933~exp=1648295533~hmac=1565d9d059bc723cf87b1a15ec5bf5a6aa45015273b27d3ecb9bf9719f5c2b4c&w=740"
     },
     {
       "name": "Jaeger-LeCoultre",
       "id": "623dd4edaebd4979a38b2e2d",
-      "balance": "$842.39",
+      "price": "$842.39",
       "picture": "https://img.freepik.com/free-vector/white-smartwatch-background_1412-32.jpg?t=st=1648294933~exp=1648295533~hmac=7f4c7061306d0d236bf6aa77cffe6fb9aba917f86bd0b75b9a9ede434e787c59&w=740"
     },
     {
       "name": "Harry Winston",
       "id": "623dd4eded4dbcdd5e9882f8",
-      "balance": "$467.22",
+      "price": "$467.22",
       "picture": "https://img.freepik.com/free-photo/smartwatch-screen-digital-device_53876-96810.jpg?t=st=1648294933~exp=1648295533~hmac=457196d8a9aaca156ec8c39175d13fa9491e6b0b44a20c5cc41f571a04df5cb5&w=740"
     },
     {
       "name": "Jaeger-LeCoultre",
       "id": "623dd4ed006c12d86a690aae",
-      "balance": "$242.66",
+      "price": "$242.66",
       "picture": "https://img.freepik.com/free-vector/smart-watch-realistic-image-black_1284-11873.jpg?t=st=1648294933~exp=1648295533~hmac=99ba0e930075a457701e92ea8ad902ab5c94a59c69ac69da9c336bf9ecdda699&w=740"
     }
-    
+
   ]

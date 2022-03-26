@@ -1,23 +1,14 @@
-import logo from './logo.svg';
 import './App.css';
-
+import 'bootstrap/dist/css/bootstrap.min.css';
+import Header from './Component/Header/Header';
+import Shop from './Component/Header/Shop/Shop';
+import Theory from './Theory/Theory';
 function App() {
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          E-watch Update is running......
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
+    <div>
+      <Header></Header>
+      <Shop></Shop>
+      <Theory></Theory>
     </div>
   );
 }
